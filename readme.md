@@ -1,4 +1,12 @@
-# Softeng Starter Code Repo
+# Brigham Women's Hospital Website
+
+This is a class project for WPI CS 3733 Software Engineering taught in D-Term of 2024.
+We built a website for Brigham and Women's Hospital in Boston, MA, working with their team.
+The website can be found at [brighamwomens.com](https://brighamwomens.com). 
+
+
+## Software Docs
+
 This document contains an outline of 
 the entire repo, the tooling in the 
 repo, and explanations of the provided
@@ -9,34 +17,33 @@ readme, providing further details on its tooling,
 and the reasoning for the tooling it has.
 
 <!-- TOC -->
-* [Softeng Starter Code Repo](#softeng-starter-code-repo)
-  * [WebStorm Run Configurations](#webstorm-run-configurations)
-  * [Installation and Useful Scripts](#installation-and-useful-scripts)
-  * [Design Pattern](#design-pattern)
-  * [Frontend vs Backend (A Web-Development Overview)](#frontend-vs-backend-a-web-development-overview)
-    * [The Hyper-Text Transfer Protocol (HTTP)](#the-hyper-text-transfer-protocol-http)
-    * [Using HTTP](#using-http)
-  * [Package Overview](#package-overview)
-    * [TypeScript](#typescript)
-    * [Node.js](#nodejs)
-    * [Yarn](#yarn)
-    * [Turbo.repo](#turborepo)
-    * [ESLint](#eslint)
-    * [Prettier](#prettier)
-    * [Husky](#husky)
-    * [Docker](#docker)
-    * [PostgreSQL](#postgresql)
-    * [Traefik](#traefik)
-    * [Vitest](#vitest)
-  * [Miscellaneous](#miscellaneous)
-    * [.run](#run)
-    * [deploy.sh](#deploysh)
-    * [.turbo](#turbo)
-    * [.gitignore](#gitignore)
-    * [Apps](#apps)
-    * [Configs](#configs)
-    * [node_modules](#node_modules)
-    * [Packages](#packages)
+* [WebStorm Run Configurations](#webstorm-run-configurations)
+* [Installation and Useful Scripts](#installation-and-useful-scripts)
+* [Design Pattern](#design-pattern)
+* [Frontend vs Backend (A Web-Development Overview)](#frontend-vs-backend-a-web-development-overview)
+  * [The Hyper-Text Transfer Protocol (HTTP)](#the-hyper-text-transfer-protocol-http)
+  * [Using HTTP](#using-http)
+* [Package Overview](#package-overview)
+  * [TypeScript](#typescript)
+  * [Node.js](#nodejs)
+  * [Yarn](#yarn)
+  * [Turbo.repo](#turborepo)
+  * [ESLint](#eslint)
+  * [Prettier](#prettier)
+  * [Husky](#husky)
+  * [Docker](#docker)
+  * [PostgreSQL](#postgresql)
+  * [Traefik](#traefik)
+  * [Vitest](#vitest)
+* [Miscellaneous](#miscellaneous)
+  * [.run](#run)
+  * [deploy.sh](#deploysh)
+  * [.turbo](#turbo)
+  * [.gitignore](#gitignore)
+  * [Apps](#apps)
+  * [Configs](#configs)
+  * [node_modules](#node_modules)
+  * [Packages](#packages)
 <!-- TOC -->
 
 ## WebStorm Run Configurations
